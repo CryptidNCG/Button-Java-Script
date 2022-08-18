@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://cdn.shopify.com/s/files/1/0551/8848/8323/files/Photo_Aug_15_16_33_46.png?v=1660595965&width=990");
+    background-size: cover;
+    font-family: 'Bitter', serif;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    width: 250px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: 25px auto;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+#increment-btn {
+   background-color: black;
+}
+
+#save-btn {
+    background-color: black;
+}
+
